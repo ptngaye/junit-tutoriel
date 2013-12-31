@@ -4,33 +4,5 @@ Ce projet inclu les sources de la bibliothèque [ClasspathSuite](http://www.joha
 
 
 L'arborescence du projet correspond aux différentes thématiques abordées
-[code]  
 
-├───main
-│   ├───java
-│   │   └───com
-│   │       └───ptngaye
-│   │           └───junittutorial
-│   │               └───dataseries
-│   └───resources
-└───test
-    └───java
-        ├───com
-        │   └───ptngaye
-        │       └───junittutorial
-        │           ├───assertions
-        │           ├───dataseries
-        │           │   ├───parameterized
-        │           │   │   └───junitparams
-        │           │   └───theories
-        │           │       └───quickcheck
-        │           ├───groups
-        │           │   └───classpathsuite
-        │           ├───interceptors
-        │           └───myfirsttest
-        └───org
-            └───junit
-                └───extensions
-                    └───cpsuite
 
-[/code]
